@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemeMaker</string>
+    <string name="storage_key">Storage</string>
+    <string name="title_storage_type">Storage Type</string>
+    <string name="storage_default_value">INTERNAL</string>
+    <string name="action_choose_font">FONT</string>
+</resources>

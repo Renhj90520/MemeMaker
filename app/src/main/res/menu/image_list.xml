@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/import_action"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Import"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/settings_action"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="Settings"
+        app:showAsAction="ifRoom" />
+</menu>
